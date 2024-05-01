@@ -14,4 +14,4 @@ This application is built on real-time data from Yahoo Stocks. It allows the use
 
 ## Demo
 
-Ready to experience the power of data-driven stock market analysis? Check out the deployed version of our app on Streamlit: [Stock Market Analysis and Prediction Tool](https://stock-market-prediction--hacktoberfest23.streamlit.app/)
+Check out the deployed version of our data-driven stock market analysis app on Streamlit: [Stock Market Analysis and Prediction Tool](https://stock-market-prediction--hacktoberfest23.streamlit.app/)
